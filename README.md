@@ -1,7 +1,7 @@
 # Customer_Purchase_Data
 ## Introduction
 
-In this project, I  focused on analysing the consumer purchase based on certain given labels. The dataset contains valuable information about key parameters about Purchases details. The objective of this project is to extract insights from the data to make inform decison-making about purchases made by different individuals of different age, sex and many more and predict how the behaviour of the purchase data could look like. 
+In this project, I  focused on analysing the consumer purchase based on certain given features. The dataset contains valuable information about key parameters about Purchases details. The objective of this project is to extract insights from the data to make inform decison-making about purchases made by different individuals of different age, sex and many more and predict how the behaviour of the purchase data could look like. 
 ## Dataset
 
 The dataset used for this analysis is sourced from kaggle data catalogue, accesible at the following link : https://www.kaggle.com/datasets/rabieelkharoua/predict-customer-purchase-behavior-dataset
